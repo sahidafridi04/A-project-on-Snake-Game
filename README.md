@@ -1,1 +1,1 @@
-# A-project-on-Snake-Gme
+# A-project-on-Snake-Game
